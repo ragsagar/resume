@@ -1,0 +1,689 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+4 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:ragsagar@gmail.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 93.25291
+ 684.7736
+ 188.4229
+ 696.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class PDFDictionary 
+5 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://ragsagar.wordpress.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 88.26291
+ 660.7736
+ 223.3129
+ 672.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class PDFDictionary 
+6 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://ragsagar.in) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 85.48291
+ 648.7736
+ 160.5229
+ 660.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+7 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R
+ 6 0 R ]
+ /Contents 17 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 16 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R8': class PDFCatalog 
+8 0 obj
+% Document Root
+<< /Outlines 10 0 R
+ /PageLabels 18 0 R
+ /PageMode /UseNone
+ /Pages 16 0 R
+ /Type /Catalog >>
+endobj
+% 'R9': class PDFInfo 
+9 0 obj
+<< /Author ()
+ /CreationDate (D:20130118235709-05'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Rag Sagar.V) >>
+endobj
+% 'R10': class PDFOutlines 
+10 0 obj
+<< /Count 5
+ /First 11 0 R
+ /Last 15 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+11 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 729.0236
+ 0 ]
+ /Next 12 0 R
+ /Parent 10 0 R
+ /Title (Contact) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+12 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 600.0236
+ 0 ]
+ /Next 13 0 R
+ /Parent 10 0 R
+ /Prev 11 0 R
+ /Title (Education) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+13 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 537.0236
+ 0 ]
+ /Next 14 0 R
+ /Parent 10 0 R
+ /Prev 12 0 R
+ /Title (Experience) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+14 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 486.0236
+ 0 ]
+ /Next 15 0 R
+ /Parent 10 0 R
+ /Prev 13 0 R
+ /Title (Computer Skills) >>
+endobj
+% 'Outline.4': class OutlineEntryObject 
+15 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 285.0236
+ 0 ]
+ /Parent 10 0 R
+ /Prev 14 0 R
+ /Title (Awards) >>
+endobj
+% 'R16': class PDFPages 
+16 0 obj
+% page tree
+<< /Count 1
+ /Kids [ 7 0 R ]
+ /Type /Pages >>
+endobj
+% 'R17': class PDFStream 
+17 0 obj
+% page stream
+<< /Length 7667 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 176.0349 0 Td (Rag Sagar.V) Tj T* -176.0349 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 708.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Contact) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+Q
+q
+1 0 0 1 62.69291 684.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Email: ) Tj 0 0 .501961 rg (ragsagar@gmail.com) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 672.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Phone: +91 9422710121) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 660.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Blog: ) Tj 0 0 .501961 rg (http://ragsagar.wordpress.com) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Site: ) Tj 0 0 .501961 rg (http://ragsagar.in) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 636.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Github: www.github.com/ragsagar) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 624.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Twitter: www.twitter.com/ragsagar) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 612.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Snail Mail: Qtrs No A16/2 MCL Township, Walayar, Palakkad, Kerala, India) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 612.0236 cm
+Q
+q
+1 0 0 1 62.69291 579.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Education) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 549.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.030888 Tw (Btech in Information Technology \(2008-2012\) SSK College of Engineering and Technology, Coimbatore) Tj T* 0 Tw (Anna Univeristy, Chennai) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 516.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Experience) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 498.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Django/Python Developer Mquotient, Pune June 2012 - Present) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 465.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Computer Skills) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 453.0236 cm
+Q
+q
+1 0 0 1 62.69291 453.0236 cm
+Q
+q
+1 0 0 1 62.69291 441.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Extensive knowledge in Python.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 435.0236 cm
+Q
+q
+1 0 0 1 62.69291 423.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Extensive knowledge in Django web framework.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 417.0236 cm
+Q
+q
+1 0 0 1 62.69291 405.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Knowledge in django apps like tastypie, crispy forms, mongoengine etc.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 399.0236 cm
+Q
+q
+1 0 0 1 62.69291 387.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Extensive knowlege in Gnu/Linux administration and AWS server management.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 381.0236 cm
+Q
+q
+1 0 0 1 62.69291 369.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Extensive knowledge in Git Source Code Management.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 363.0236 cm
+Q
+q
+1 0 0 1 62.69291 351.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Knowledge in Document oriented database MongoDB) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 345.0236 cm
+Q
+q
+1 0 0 1 62.69291 333.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Knowledge in angular.js) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 327.0236 cm
+Q
+q
+1 0 0 1 62.69291 315.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Knowledge in golang.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 309.0236 cm
+Q
+q
+1 0 0 1 62.69291 297.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Knowledge in using Vim editor.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 297.0236 cm
+Q
+q
+1 0 0 1 62.69291 264.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Awards) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 252.0236 cm
+Q
+q
+1 0 0 1 62.69291 252.0236 cm
+Q
+q
+1 0 0 1 62.69291 228.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.314597 Tw (First prize in Computer Society of India C programming contest conducted in Amrita University) Tj T* 0 Tw (Coimbatore \(2011\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 222.0236 cm
+Q
+q
+1 0 0 1 62.69291 198.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .65248 Tw (First prize in Project Presentation conducted by PSG College of Technology, Coimbatore \(February) Tj T* 0 Tw (2011\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 192.0236 cm
+Q
+q
+1 0 0 1 62.69291 180.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (First prize in Linux Wizard from PSG College of Technology, Coimbatore \(February 2011\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 174.0236 cm
+Q
+q
+1 0 0 1 62.69291 162.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (First prize in Project Presentation conducted by Thiagarajar College of Engineering, Madurai \(2011\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 156.0236 cm
+Q
+q
+1 0 0 1 62.69291 132.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 4.19816 Tw (First prize in multiple languages programming contest conducted by Thiagarajar College of) Tj T* 0 Tw (Engineering, Madurai \(2011\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 132.0236 cm
+Q
+ 
+endstream
+endobj
+% 'R18': class PDFPageLabels 
+18 0 obj
+% Document Root
+<< /Nums [ 0
+ 19 0 R ] >>
+endobj
+% 'R19': class PDFPageLabel 
+19 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+xref
+0 20
+0000000000 65535 f
+0000000113 00000 n
+0000000221 00000 n
+0000000386 00000 n
+0000000573 00000 n
+0000000816 00000 n
+0000001063 00000 n
+0000001285 00000 n
+0000001600 00000 n
+0000001757 00000 n
+0000002015 00000 n
+0000002140 00000 n
+0000002307 00000 n
+0000002491 00000 n
+0000002676 00000 n
+0000002866 00000 n
+0000003016 00000 n
+0000003123 00000 n
+0000010893 00000 n
+0000010986 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\257\276\230G\217\255\233\356v\376hv\374\232x\003) (\257\276\230G\217\255\233\356v\376hv\374\232x\003)] 
+
+ /Info 9 0 R
+ /Root 8 0 R
+ /Size 20 >>
+startxref
+11033
+%%EOF
