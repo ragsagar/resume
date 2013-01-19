@@ -103,7 +103,7 @@ endobj
 % 'R9': class PDFInfo 
 9 0 obj
 << /Author ()
- /CreationDate (D:20130119102125-05'00')
+ /CreationDate (D:20130119104327-05'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
@@ -145,7 +145,7 @@ endobj
 << /Dest [ 7 0 R
  /XYZ
  62.69291
- 537.0236
+ 519.0236
  0 ]
  /Next 14 0 R
  /Parent 10 0 R
@@ -157,7 +157,7 @@ endobj
 << /Dest [ 7 0 R
  /XYZ
  62.69291
- 486.0236
+ 468.0236
  0 ]
  /Next 15 0 R
  /Parent 10 0 R
@@ -169,7 +169,7 @@ endobj
 << /Dest [ 7 0 R
  /XYZ
  62.69291
- 285.0236
+ 267.0236
  0 ]
  /Parent 10 0 R
  /Prev 14 0 R
@@ -185,7 +185,7 @@ endobj
 % 'R17': class PDFStream 
 17 0 obj
 % page stream
-<< /Length 7643 >>
+<< /Length 7885 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -260,57 +260,53 @@ BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Education) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 549.0236 cm
+1 0 0 1 62.69291 567.0236 cm
+Q
+q
+1 0 0 1 62.69291 555.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.916647 Tw (Btech in Information Technology \(2008-2012\) SSK College of Engineering and Technology, Coimbatore Anna) Tj T* 0 Tw (Univeristy, Chennai) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Btech in Information Technology \(2008-2012\)) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 516.0236 cm
+1 0 0 1 62.69291 543.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (SSK College of Engineering and Technology, Coimbatore) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 531.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Anna Univeristy, Chennai) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 531.0236 cm
+Q
+q
+1 0 0 1 62.69291 498.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Experience) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 498.0236 cm
+1 0 0 1 62.69291 480.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Django/Python Developer Mquotient, Pune June 2012 - Present) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 465.0236 cm
+1 0 0 1 62.69291 447.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Computer Skills) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 453.0236 cm
-Q
-q
-1 0 0 1 62.69291 453.0236 cm
-Q
-q
-1 0 0 1 62.69291 441.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Extensive knowledge in Python.) Tj T* ET
-Q
-Q
-q
-Q
+1 0 0 1 62.69291 435.0236 cm
 Q
 q
 1 0 0 1 62.69291 435.0236 cm
@@ -330,7 +326,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Extensive knowledge in Django web framework.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Extensive knowledge in Python.) Tj T* ET
 Q
 Q
 q
@@ -354,7 +350,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Knowledge in django apps like tastypie, crispy forms, mongoengine etc.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Extensive knowledge in Django web framework.) Tj T* ET
 Q
 Q
 q
@@ -378,7 +374,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Extensive knowlege in Gnu/Linux administration and AWS server management.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Knowledge in django apps like tastypie, crispy forms, mongoengine etc.) Tj T* ET
 Q
 Q
 q
@@ -402,7 +398,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Extensive knowledge in Git Source Code Management.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Extensive knowlege in Gnu/Linux administration and AWS server management.) Tj T* ET
 Q
 Q
 q
@@ -426,7 +422,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Knowledge in Document oriented database MongoDB) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Extensive knowledge in Git Source Code Management.) Tj T* ET
 Q
 Q
 q
@@ -450,7 +446,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Knowledge in angular.js) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Knowledge in Document oriented database MongoDB) Tj T* ET
 Q
 Q
 q
@@ -474,7 +470,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Knowledge in golang.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Knowledge in angular.js) Tj T* ET
 Q
 Q
 q
@@ -498,6 +494,30 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Knowledge in golang.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 291.0236 cm
+Q
+q
+1 0 0 1 62.69291 279.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Knowledge in using Vim editor.) Tj T* ET
 Q
 Q
@@ -505,22 +525,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 297.0236 cm
+1 0 0 1 62.69291 279.0236 cm
 Q
 q
-1 0 0 1 62.69291 264.0236 cm
+1 0 0 1 62.69291 246.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Awards) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 252.0236 cm
+1 0 0 1 62.69291 234.0236 cm
 Q
 q
-1 0 0 1 62.69291 252.0236 cm
+1 0 0 1 62.69291 234.0236 cm
 Q
 q
-1 0 0 1 62.69291 228.0236 cm
+1 0 0 1 62.69291 210.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -535,30 +555,6 @@ q
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .772126 Tw (First prize in Computer Society of India C programming contest conducted in Amrita University Coimbatore) Tj T* 0 Tw (\(2011\)) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 222.0236 cm
-Q
-q
-1 0 0 1 62.69291 210.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (First prize in Project Presentation conducted by PSG College of Technology, Coimbatore \(February 2011\)) Tj T* ET
 Q
 Q
 q
@@ -582,7 +578,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (First prize in Linux Wizard from PSG College of Technology, Coimbatore \(February 2011\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (First prize in Project Presentation conducted by PSG College of Technology, Coimbatore \(February 2011\)) Tj T* ET
 Q
 Q
 q
@@ -606,7 +602,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (First prize in Project Presentation conducted by Thiagarajar College of Engineering, Madurai \(2011\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (First prize in Linux Wizard from PSG College of Technology, Coimbatore \(February 2011\)) Tj T* ET
 Q
 Q
 q
@@ -616,7 +612,31 @@ q
 1 0 0 1 62.69291 168.0236 cm
 Q
 q
-1 0 0 1 62.69291 144.0236 cm
+1 0 0 1 62.69291 156.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (First prize in Project Presentation conducted by Thiagarajar College of Engineering, Madurai \(2011\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 150.0236 cm
+Q
+q
+1 0 0 1 62.69291 126.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -637,7 +657,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 144.0236 cm
+1 0 0 1 62.69291 126.0236 cm
 Q
  
 endstream
@@ -674,16 +694,16 @@ xref
 0000002862 00000 n
 0000003012 00000 n
 0000003119 00000 n
-0000010865 00000 n
-0000010958 00000 n
+0000011107 00000 n
+0000011200 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\003\342\254\340O\231\227S\343M\302\301\255\377\327+) (\003\342\254\340O\231\227S\343M\302\301\255\377\327+)] 
+ [(\015\336X\302v\012\305R\314\276\304\)\004\332\276\276) (\015\336X\302v\012\305R\314\276\304\)\004\332\276\276)] 
 
  /Info 9 0 R
  /Root 8 0 R
  /Size 20 >>
 startxref
-11005
+11247
 %%EOF
