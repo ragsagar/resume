@@ -12,9 +12,9 @@ Contact
 
 Education
 ---------
-Btech in Information Technology (2008-2012)
-SSK College of Engineering and Technology, Coimbatore
-Anna Univeristy, Chennai
+| Btech in Information Technology (2008-2012)
+| SSK College of Engineering and Technology, Coimbatore
+| Anna Univeristy, Chennai
 
 Experience
 ----------
