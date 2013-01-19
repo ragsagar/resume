@@ -6,8 +6,8 @@ Contact
 | Phone: +91 9422710121
 | Blog: http://ragsagar.wordpress.com
 | Site: http://ragsagar.in
-| Github: www.github.com/ragsagar
-| Twitter: www.twitter.com/ragsagar
+| Github: http://www.github.com/ragsagar
+| Twitter: http://www.twitter.com/ragsagar
 | Snail Mail: Qtrs No A16/2 MCL Township, Walayar, Palakkad, Kerala, India
 
 Education
