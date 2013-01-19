@@ -40,7 +40,7 @@
     oneColumn:
         frames: []
             [0cm, 0cm, 100%, 100%]
-        showHeader : true
+        showHeader : false
         showFooter : true
 
     twoColumn:
@@ -67,8 +67,8 @@
         defaultHeader : ###Section###
 
   fontsAlias:
-    stdFont: Helvetica
-    stdBold: Helvetica-Bold
+    stdFont: Rufina-Regular
+    stdBold: LibreBaskerville-Bold
     stdItalic: Helvetica-Oblique
     stdBoldItalic: Helvetica-BoldOblique
     stdSans: Helvetica
