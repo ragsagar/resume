@@ -3,7 +3,7 @@ Rag Sagar.V
 Contact
 -------
 :Email: ragsagar@gmail.com
-:Phone: +91 9422710121
+:Phone: +91 8893845901
 :Blog: http://ragsagar.wordpress.com
 :Site: http://ragsagar.in
 :Github: http://www.github.com/ragsagar
@@ -18,19 +18,19 @@ Education
 
 Experience
 ----------
-Django/Python Developer   Mquotient, Pune   June 2012 - Present
+Django/Python Developer   Mquotient, Pune   (June 2012 - February 2013)
 
 Computer Skills
 ---------------
 * Extensive knowledge in Python.
 * Extensive knowledge in Django web framework.  
 * Knowledge in django apps like tastypie, crispy forms, mongoengine etc.
-* Extensive knowlege in Gnu/Linux administration and AWS server management.
+* Knowledge in automating deployment using fabric.
 * Extensive knowledge in Git Source Code Management.
 * Knowledge in Document oriented database MongoDB
 * Knowledge in angular.js
 * Knowledge in golang.
-* Knowledge in using Vim editor.
+* Knowledge in using Vim and Emacs (I like both).
 
 Awards
 ------
