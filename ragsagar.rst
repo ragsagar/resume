@@ -20,16 +20,16 @@ Education
 Experience
 ----------
 Software Engineer - Mquotient, Pune   (June 2012 - February 2013)
-    Developed custom authentication and object level unix like authorization
-    system for django with mongoengine(ORM for MongoDB).
-    Implemented RESTful apis using a custom api engine based on tastypie.
-    Helped implementing document(row in rdbms) level multitenancy by providing
-    a centralized function for all queries.
+    | Developed custom authentication and object level unix like authorization
+      system for django with mongoengine(ORM for MongoDB).
+    | Implemented RESTful apis using a custom api engine based on tastypie.
+    | Helped implementing document(row in rdbms) level multitenancy by providing
+      a centralized function for all queries.
 
 Systems Developer - Deam Investments LLC, Dubai (March 2013 - Present)
-    Developed an enterprise level HRMS(Humar Resource Management System) app
-    from scratch using Django and integrated it with the legacy systems.
-    Developed production life cycle automation app.
+    | Developed an enterprise level HRMS(Humar Resource Management System) app
+      from scratch using Django and integrated it with the legacy systems.
+    | Developed production life cycle automation app.
 
 Computer Skills
 ---------------
