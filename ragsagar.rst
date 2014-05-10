@@ -3,11 +3,12 @@ Rag Sagar.V
 Contact
 -------
 :Email: ragsagar@gmail.com
-:Phone: +91 8893845901
+:Phone: +971 509796454 (UAE)
 :Blog: http://ragsagar.wordpress.com
-:Site: http://ragsagar.in
+       http://blog.ragsagar.in
 :Github: http://www.github.com/ragsagar
 :Twitter: http://www.twitter.com/ragsagar
+:Skype: ragsagar1
 :Snail Mail: Qtrs No A16/2 MCL Township, Walayar, Palakkad, Kerala, India
 
 Education
@@ -18,19 +19,36 @@ Education
 
 Experience
 ----------
-Django/Python Developer   Mquotient, Pune   (June 2012 - February 2013)
+Software Engineer - Mquotient, Pune   (June 2012 - February 2013)
+    Developed custom authentication and object level unix like authorization
+    system for django with mongoengine(ORM for MongoDB).
+    Implemented RESTful apis using a custom api engine based on tastypie.
+    Helped implementing document(row in rdbms) level multitenancy by providing
+    a centralized function for all queries.
+
+Systems Developer - Deam Investments LLC, Dubai (March 2013 - Present)
+    Developed an enterprise level HRMS(Humar Resource Management System) app
+    from scratch using Django and integrated it with the legacy systems.
+    Developed production life cycle automation app.
 
 Computer Skills
 ---------------
-* Extensive knowledge in Python.
-* Extensive knowledge in Django web framework.  
+* Good knowledge in Python.
+* Good knowledge in Django web framework 
+* Experience working with frontend libs like AngularJS and Jquery implementing
+  dynamic frontend interfaces and single pages apps.
+* Experience working with document oriented database MongoDB and relational
+  database postgresql.
+* Experience in using Git version control system.
+* Experience in managing ec2 and vpc servers in AWS.
+* Experience in automating deployment using fabric and git
+* Experience in using Document oriented database MongoDB and postgresql.
+* Have given code contributions/bug fixes to popular django apps like
+  django-braces, kitsune, delicius-cake etc.
 * Knowledge in django apps like tastypie, crispy forms, mongoengine etc.
-* Knowledge in automating deployment using fabric.
-* Extensive knowledge in Git Source Code Management.
-* Knowledge in Document oriented database MongoDB
-* Knowledge in angular.js
-* Knowledge in golang.
-* Knowledge in using Vim and Emacs (I like both).
+* Good knowledge in Gnu/Linux and using shell.
+* Good with vim text editor. Uses it for all development and text editing
+  purposes.
 
 Awards
 ------
