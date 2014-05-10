@@ -20,16 +20,17 @@ Education
 Experience
 ----------
 Software Engineer - Mquotient, Pune   (June 2012 - February 2013)
-    | Developed custom authentication and object level unix like authorization
+    * Developed custom authentication and object level unix like authorization
       system for django with mongoengine(ORM for MongoDB).
-    | Implemented RESTful apis using a custom api engine based on tastypie.
-    | Helped implementing document(row in rdbms) level multitenancy by providing
+    * Implemented RESTful apis using a custom api engine based on tastypie.
+    * Helped implementing document(row in rdbms) level multitenancy by providing
       a centralized function for all queries.
 
 Systems Developer - Deam Investments LLC, Dubai (March 2013 - Present)
-    | Developed an enterprise level HRMS(Humar Resource Management System) app
-      from scratch using Django and integrated it with the legacy systems.
-    | Developed production life cycle automation app.
+    * Developed custom tailored web application of enterprise magnitude which
+      addresses the need of HRMS, CRM and automation of engineering components
+      selection process for Instrumentaion Industry from scratch in
+      Django/AngularJS which seemlessly integrates with the legacy systems.
 
 Computer Skills
 ---------------
@@ -43,8 +44,7 @@ Computer Skills
 * Experience in managing ec2 and vpc servers in AWS.
 * Experience in automating deployment using fabric and git
 * Experience in using Document oriented database MongoDB and postgresql.
-* Have given code contributions/bug fixes to popular django apps like
-  django-braces, kitsune, delicius-cake etc.
+* Contributed to popular django apps like django-braces, kitsune, delicius-cake etc.
 * Knowledge in django apps like tastypie, crispy forms, mongoengine etc.
 * Good knowledge in Gnu/Linux and using shell.
 * Good with vim text editor. Uses it for all development and text editing
