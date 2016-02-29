@@ -9,7 +9,7 @@ Contact
 :Github: http://www.github.com/ragsagar
 :Twitter: http://www.twitter.com/ragsagar
 :Skype: ragsagar1
-:Snail Mail: Qtrs No A16/2 MCL Township, Walayar, Palakkad, Kerala, India
+:Snail Mail: First floor, Maniyankattu house, Kadankode , Palakkad, Kerala, India
 
 Education
 ---------
@@ -26,29 +26,35 @@ Software Engineer - Mquotient, Pune   (June 2012 - February 2013)
     * Helped implementing document(row in rdbms) level multitenancy by providing
       a centralized function for all queries.
 
-Systems Developer - Deam Investments LLC, Dubai (March 2013 - Present)
+
+Sr Systems Developer - Deam Investments LLC, Dubai (March 2013 - Present)
     * Developed custom tailored web application of enterprise magnitude which
       addresses the need of HRMS, CRM and automation of engineering components
       selection process for Instrumentaion Industry from scratch in
       Django/AngularJS which seemlessly integrates with the legacy systems.
+    * Developed full fledged Accounting system from scratch with Python/Django
+      which is in production.
+    * Developed native IOS app using swift for tracking and plotting the flight
+      paths of falcon collaborating with US Radio Communication company.
+    * Developed online food ordering system with online payment using payfort
+      and integrated it with their legacy POS using custom linux machine at site.
+      
 
 Computer Skills
 ---------------
 * Good knowledge in Python.
 * Good knowledge in Django web framework 
 * Experience working with frontend libs like AngularJS and Jquery implementing
-  dynamic frontend interfaces and single pages apps.
+  dynamic frontend interfaces and single page apps.
 * Experience working with document oriented database MongoDB and relational
   database postgresql.
 * Experience in using Git version control system.
 * Experience in managing ec2 and vpc servers in AWS.
 * Experience in automating deployment using fabric and git
 * Experience in using Document oriented database MongoDB and postgresql.
-* Contributed to popular django apps like django-braces, kitsune, delicius-cake etc.
-* Knowledge in django apps like tastypie, crispy forms, mongoengine etc.
+* Few contributions to popular django apps like django-braces, kitsune, delicius-cake etc.
 * Good knowledge in Gnu/Linux and using shell.
-* Good with vim text editor. Uses it for all development and text editing
-  purposes.
+* Uses vim for development.
 
 Awards
 ------
