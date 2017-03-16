@@ -36,8 +36,11 @@ Sr Systems Developer - Deam Investments LLC, Dubai (March 2013 - Present)
       which is in production.
     * Developed native IOS app using swift for tracking and plotting the flight
       paths of falcon collaborating with US Radio Communication company.
+    * Developed an app to generate mbtiles in golang to aid in generating and
+      downloading maps for offline use.
     * Developed online food ordering system with online payment using payfort
       and integrated it with their legacy POS using custom linux machine at site.
+    * Developed a Cameroon 2000 scanner simulator in golang based on modbus.
       
 
 Computer Skills
