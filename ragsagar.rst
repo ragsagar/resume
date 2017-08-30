@@ -19,15 +19,12 @@ Education
 
 Experience
 ----------
-Software Engineer - Mquotient, Pune   (June 2012 - February 2013)
-    * Developed custom authentication and object level unix like authorization
-      system for django with mongoengine(ORM for MongoDB).
-    * Implemented RESTful apis using a custom api engine based on tastypie.
-    * Helped implementing document(row in rdbms) level multitenancy by providing
-      a centralized function for all queries.
 
+Senior Software Engineer - Icflix (March 2017 - Present)
+    * Manages backend billing system microservices.
+    * Developed new payment integrations.
 
-Sr Systems Developer - Deam Investments LLC, Dubai (March 2013 - Present)
+Senior Systems Developer - Deam Investments LLC, Dubai (March 2013 - March 2017)
     * Developed custom tailored web application of enterprise magnitude which
       addresses the need of HRMS, CRM and automation of engineering components
       selection process for Instrumentaion Industry from scratch in
@@ -41,12 +38,19 @@ Sr Systems Developer - Deam Investments LLC, Dubai (March 2013 - Present)
     * Developed online food ordering system with online payment using payfort
       and integrated it with their legacy POS using custom linux machine at site.
     * Developed a Cameroon 2000 scanner simulator in golang based on modbus.
-      
+
+Software Engineer - Mquotient, Pune   (June 2012 - February 2013)
+    * Developed custom authentication and object level unix like authorization
+      system for django with mongoengine(ORM for MongoDB).
+    * Implemented RESTful apis using a custom api engine based on tastypie.
+    * Helped implementing document(row in rdbms) level multitenancy by providing
+      a centralized function for all queries.
 
 Computer Skills
 ---------------
 * Good knowledge in Python.
 * Good knowledge in Django web framework 
+* Experience working in Golang. 
 * Experience working with frontend libs like AngularJS and Jquery implementing
   dynamic frontend interfaces and single page apps.
 * Experience working with document oriented database MongoDB and relational
