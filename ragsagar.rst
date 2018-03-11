@@ -20,7 +20,7 @@ Education
 Experience
 ----------
 
-Senior Software Engineer - Icflix (March 2017 - Present)
+Lead Backend Engineer - Icflix (March 2017 - Present)
     * Implemented playback management system which contains all video playback APIs      
     * Manages backend billing system microservices.
     * Developed new payment integrations.
@@ -52,7 +52,7 @@ Software Engineer - Mquotient, Pune   (June 2012 - February 2013)
 Computer Skills
 ---------------
 * Good knowledge in Python and Django web framework.
-* Experience working in Golang. 
+* Experience working in Golang, RoR, Java(Android), Swift etc. 
 * More than 10 years of experience in using various Gnu/Linux distros and shell.
 * Experience working with frontend libs like AngularJS and Jquery implementing
   dynamic frontend interfaces and single page apps.
