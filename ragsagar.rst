@@ -9,7 +9,7 @@ Contact
 :Github: http://www.github.com/ragsagar
 :Twitter: http://www.twitter.com/ragsagar
 :Skype: ragsagar1
-:Snail Mail: First floor, Maniyankattu house, Kadankode , Palakkad, Kerala, India
+:Snail Mail: Flat No 101, DIB Building, Butina FineFair, Sharjah
 
 Education
 ---------
@@ -21,8 +21,11 @@ Experience
 ----------
 
 Senior Software Engineer - Icflix (March 2017 - Present)
+    * Implemented playback management system which contains all video playback APIs      
     * Manages backend billing system microservices.
     * Developed new payment integrations.
+    * Added new voucher based hourly subscriptions.
+    * Implemented internal statistics app for user conversion overview.
 
 Senior Systems Developer - Deam Investments LLC, Dubai (March 2013 - March 2017)
     * Developed custom tailored web application of enterprise magnitude which
@@ -48,20 +51,19 @@ Software Engineer - Mquotient, Pune   (June 2012 - February 2013)
 
 Computer Skills
 ---------------
-* Good knowledge in Python.
-* Good knowledge in Django web framework 
+* Good knowledge in Python and Django web framework.
 * Experience working in Golang. 
+* More than 10 years of experience in using various Gnu/Linux distros and shell.
 * Experience working with frontend libs like AngularJS and Jquery implementing
   dynamic frontend interfaces and single page apps.
 * Experience working with document oriented database MongoDB and relational
   database postgresql.
-* Experience in using Git version control system.
+* Expert in using Git version control system.
 * Experience in managing ec2 and vpc servers in AWS.
 * Experience in automating deployment using fabric and git
-* Experience in using Document oriented database MongoDB and postgresql.
-* Few contributions to popular django apps like django-braces, kitsune, delicius-cake etc.
-* Good knowledge in Gnu/Linux and using shell.
-* Uses vim for development.
+* Few contributions to popular django apps like django-braces, kitsune, delicius-cake etc
+  and projects like gnome and kde.
+* Vim user.
 
 Awards
 ------
