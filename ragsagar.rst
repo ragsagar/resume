@@ -19,15 +19,24 @@ Education
 
 Experience
 ----------
+|
+Senior Backend Engineer - AYM Commerce (May 2018 - Present)
 
-Lead Backend Engineer - Icflix (March 2017 - Present)
+   * Developing and managing the high traffic commerce app backend (danube.sa)
+   * Added payment integraton using payfort.
+   * Rewrote apis in Rails backend app to support new React native app.
+   * Managed upto 6 million requests in an hour.
+|
+Lead Backend Engineer - Icflix (March 2017 - May 2018)
+
     * Implemented playback management system which contains all video playback APIs      
     * Manages backend billing system microservices.
     * Developed new payment integrations.
     * Added new voucher based hourly subscriptions.
     * Implemented internal statistics app for user conversion overview.
-
+|
 Senior Systems Developer - Deam Investments LLC, Dubai (March 2013 - March 2017)
+
     * Developed custom tailored web application of enterprise magnitude which
       addresses the need of HRMS, CRM and automation of engineering components
       selection process for Instrumentaion Industry from scratch in
@@ -41,7 +50,7 @@ Senior Systems Developer - Deam Investments LLC, Dubai (March 2013 - March 2017)
     * Developed online food ordering system with online payment using payfort
       and integrated it with their legacy POS using custom linux machine at site.
     * Developed a Cameroon 2000 scanner simulator in golang based on modbus.
-
+|
 Software Engineer - Mquotient, Pune   (June 2012 - February 2013)
     * Developed custom authentication and object level unix like authorization
       system for django with mongoengine(ORM for MongoDB).
